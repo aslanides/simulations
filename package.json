@@ -1,0 +1,28 @@
+{
+  "name": "drawing",
+  "version": "0.1.0",
+  "description": "Doodling around.",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "gas": "parcel src/gas/gas.html",
+    "nbody": "parcel src/nbody/nbody.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/aslanides/drawing"
+  },
+  "keywords": [
+    "meh"
+  ],
+  "author": "John Aslanides",
+  "license": "ISC",
+  "devDependencies": {
+    "gts": "^1.0.0",
+    "typescript": "^3.5.2"
+  },
+  "dependencies": {
+    "parcel-bundler": "^1.12.3",
+    "three": "^0.106.2"
+  }
+}
