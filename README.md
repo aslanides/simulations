@@ -1,5 +1,5 @@
 # simulations
-Some simple physics simulations
+Some simple physics simulations. Faffing with typescript + animations + webgl via threejs.
 
 # Running
 
